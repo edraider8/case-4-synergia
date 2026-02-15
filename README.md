@@ -18,21 +18,21 @@
 
 # Frontend
 
-React 19.1.0 - Основной фреймворк для разработки пользовательского интерфейса
+* React 19.1.0 - Основной фреймворк для разработки пользовательского интерфейса
 
-React Hooks - Управление состоянием компонентов (useState, useEffect, useContext)
+* React Hooks - Управление состоянием компонентов (useState, useEffect, useContext)
 
-Context API - Глобальное управление состоянием (AuthContext, NotificationContext)
+* Context API - Глобальное управление состоянием (AuthContext, NotificationContext)
 
-CSS3 - Современные стили с градиентами, анимациями и адаптивным дизайном
+* CSS3 - Современные стили с градиентами, анимациями и адаптивным дизайном
 
-Lucide React - Библиотека SVG иконок
+* Lucide React - Библиотека SVG иконок
 
 # Backend & API
 
-JSON Server - RESTful API сервер для разработки
+* JSON Server - RESTful API сервер для разработки
 
-Axios - HTTP клиент для работы с API
+* Axios - HTTP клиент для работы с API
 
 # Быстрый старт
 
